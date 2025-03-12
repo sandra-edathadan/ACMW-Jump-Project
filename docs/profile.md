@@ -31,7 +31,7 @@ I'm a Computer Science student at Birla Institute of Technology and Science, Dub
 ### AFastAPI CRUD Application
 *Technologies used: FastAPI, SQLite*
 
-![Project Image](/static/img/fastapi-crud.png)
+![Project Image](/img/fastapi-crud.png)
 
 A web application that allows users to create and manipulate tasks.
 
