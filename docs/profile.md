@@ -1,76 +1,77 @@
 ---
 id: profile
-title: Mentor Profile
+title: Mentee Profile
 ---
 
-# Prakash Aryan
+# Sandra Edathadan | Computer Science Portfolio 💻
 
-<div style={{display: 'flex', justifyContent: 'center', marginBottom: '20px'}}>
-  <img src="https://avatars.githubusercontent.com/u/53960016?v=4" alt="Prakash Aryan" style={{borderRadius: '50%', width: '200px', height: '200px', objectFit: 'cover'}}/>
+![Profile Photo](img/github-profile.png)
+
+## About Me 👋
+
+I'm a Computer Science student at Birla Institute of Technology and Science, Dubai Campus, passionate about software development, machine learning, and solving complex problems through code. 
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandra-edathadan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandraedathadan@gmail.com)
+
 </div>
 
-## About Me
+---
 
-I am currently pursuing my Master of Engineering in Software Systems at Birla Institute of Technology and Science, Dubai, UAE. I completed my Bachelor of Technology in Computer Engineering with a specialization in Artificial Intelligence from Poornima University, Jaipur, India.
+## 🎓 Education
 
-My expertise spans various domains including robotics, AI, machine learning, and software development. I'm particularly interested in the intersection of these fields and how they can be applied to solve real-world problems.
+**Bachelor of Engineering in Computer Science**  
+*Birla Institute of Technology and Science Dubai, Expected Graduation: September 2028*
+---
 
-## Professional Experience
+## 🚀 Projects
 
-### Research Assistant
-**BITS Pilani Dubai Campus, Dubai, UAE** | *Sep 2023–Dec 2024*
+### AFastAPI CRUD Application
+*Technologies used: FastAPI, SQLite*
 
-- Simulated 5+ robot behaviors using Unity and ROS2, improving testing efficiency by 30%.
-- Developed 3 VR/MR apps for robot control, conducting 20+ simulations in MetaQuest 3 headset.
-- Created and deployed 4 custom ROS2 packages using Docker, improving modularity and scalability.
-- Implemented SLAM algorithms for autonomous navigation, achieving 95% accuracy in unknown environments.
+![Project Image](/static/img/fastapi-crud.png)
 
-### Teaching Assistant (Lab)
-**BITS Pilani Dubai Campus, Dubai, UAE** | *Sep 2023–Jun 2024*
+A web application that allows users to create and manipulate tasks.
 
-- Provided guidance and support to undergraduate students in understanding computer architecture concepts.
-- Taught in additional labs such as Computer Networks, Data Structures and Algorithms (DSA), and Database Systems.
+[View Project](https://github.com/EigenvectorsAndChill/fastapi_crud) | [Live Demo](https://project1demo.com)
 
-## Skills
+---
 
-- **Programming Languages**: Python, C/C++, C# (WPF), JavaScript, TypeScript, Rust, Bash Scripting
-- **Machine Learning & AI**: Machine Learning, Deep Learning, Generative AI, Stable Diffusion, Large Language Models, Natural Language Processing, Computer Vision
-- **Frameworks & Libraries**: .NET, Flask, FastAPI, Tensorflow, PyTorch, llama.cpp, GGUF, QLoRA, OpenCV, SAM2, Langchain
-- **Robotics**: Robot Operating System (ROS1 and ROS2), SLAM, Navigation Stack, Gazebo, MoveIt, PCL, TF2, RViz
-- **Extended Reality**: XR and Unity
-- **Web Technologies**: React, Next.js, Node.js, Three.js
-- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis), Vector Database (Chroma DB)
-- **DevOps & Tools**: Docker, Kubernetes, Git, GitHub, CI/CD, GitHub Actions, Jira, AWS
-- **Operating Systems**: Linux (Ubuntu and Arch Linux), freeBSD
+## 🛠️ Technical Skills
 
-## Selected Research Projects
+<div align="center">
 
-1. LLMs as Debate Partners: Utilizing Genetic Algorithms and Adversarial Search for Adaptive Arguments
-2. Resource-Aware Arabic LLM Creation: Model Adaptation, Integration, and Multi-Domain Testing
-3. Robot Retrieval and Stocking of Mixed-Size Cardboard Boxes
-4. XR Robotics Simulation in Metaquest3 using Unity and ROS2
-5. Human-Robot Interaction: Natural Language Commands for Vision-Based Navigation on TurtleBot3
-6. BabbleBot.tech: Culturally-aware Arabic AI Avatar chatbots for MENA
+| **Languages** | **Tools & Platforms** |
+|---------------|------------------------|
+| Python        | Git & GitHub           |
+| JavaScript    | VS Code                |
+| Java          |                        |
+| C++           |                        |
+| SQL           |                        |
 
-## Leadership
+</div>
 
-- **Mentor, IFOR robotics club** | *Sep 2024–Present*
-- **Vice President, Linux Users Group** | *Aug 2023–Jun 2024*
+## 🏆 Achievements
 
-## Contact
+- **Hackathon Winner** - MTCxACM-W:Hack-a-Bot, March 2025
 
-- **Email**: h20230010@dubai.bits-pilani.ac.in
-- **GitHub**: [@prakash-aryan](https://github.com/prakash-aryan)
-- **LinkedIn**: [Prakash Aryan](https://www.linkedin.com/in/prakash-aryan/)
-- **Website**: [prakasharyan.com](https://prakasharyan.com)
+---
 
-## ACMW-Jump Mentorship Project
+## 📫 Contact
 
-I am currently mentoring a team for the ACMW-Jump program, where we are working on a security and monitoring project. Our team consists of four talented individuals, each focusing on different aspects of the project:
+Feel free to reach out to me at [sandraedathadan@gmail.com](mailto:sandraedathadan@gmail.com).
 
-1. **Security & Database Engineering**
-2. **Data Infrastructure Engineering**
-3. **Machine Learning Engineering**
-4. **LLM Engineering**
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+</div>
 
-Follow our progress through the documentation section!
+---
+
+<footer>
+<div align="center">
+  <p>© 2025 Sandra Edathadan | Last Updated: March 2025</p>
+  <p>Theme inspired by <a href="https://github.com/topics/portfolio-template">GitHub Portfolio Templates</a></p>
+</div>
+</footer>
