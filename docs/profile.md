@@ -63,10 +63,6 @@ A web application that allows users to create and manipulate tasks.
 
 Feel free to reach out to me at [sandraedathadan@gmail.com](mailto:sandraedathadan@gmail.com).
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</div>
-
 ---
 
 <footer>
