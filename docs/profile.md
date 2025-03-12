@@ -5,7 +5,7 @@ title: Mentee Profile
 
 # Sandra Edathadan | Computer Science Portfolio 💻
 
-![Profile Photo](img/github-profile.png)
+![Profile Photo](/img/github-profile.png)
 
 ## About Me 👋
 
