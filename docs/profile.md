@@ -11,8 +11,8 @@ title: Mentee Profile
   <img 
     src="img/sandra-profileu.png" 
     alt="Sandra Edathadan" 
-    width="935" 
-    height="774"
+    width="468" 
+    height="387"
   />
 </div>
 
