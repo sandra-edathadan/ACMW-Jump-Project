@@ -9,10 +9,10 @@ title: Mentee Profile
 <!-- CHANGE: Updated profile image from github-profile.png to sandra-profile.png -->
 <div align="center">
   <img 
-    src="img/sandra-profile.png" 
+    src="img/sandra-profileu.png" 
     alt="Sandra Edathadan" 
-    width="200" 
-    height="200"
+    width="935" 
+    height="774"
   />
 </div>
 
@@ -32,6 +32,7 @@ I'm a Computer Science student at Birla Institute of Technology and Science, Dub
 
 **Bachelor of Engineering in Computer Science**  
 *Birla Institute of Technology and Science Dubai, Expected Graduation: September 2028*
+
 <!-- CHANGE: Fixed spacing issue that was causing layout problems -->
 
 ---
