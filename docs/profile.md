@@ -39,7 +39,7 @@ I'm a Computer Science student at Birla Institute of Technology and Science, Dub
 
 ## 🚀 Projects
 
-### AFastAPI CRUD Application
+### A FastAPI CRUD Application
 *Technologies used: FastAPI, SQLite*
 
 <!-- fixed the path of the file and added HTML for better layout -->
