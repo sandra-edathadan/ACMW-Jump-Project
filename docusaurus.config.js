@@ -10,7 +10,7 @@ const config = {
   // TODO: MENTEE - Update your tagline/slogan here
   tagline: 'Where Anne hath a will, Anne hath a way',
   // TODO: MENTEE - Update favicon path or add your own image
-  favicon: 'img/github-profile.png',
+  favicon: 'img/sandra-profile.png',
   trailingSlash: true,
 
   // Set the production url of your site here
@@ -73,7 +73,7 @@ const config = {
           // TODO: MENTEE - Update alt text with your name
           alt: 'Sandra Edathadan',
           // TODO: MENTEE - Update with your profile picture
-          src: '/img/github-profile.png',
+          src: '/img/sandra-profile.png',
         },
         items: [
           {
