@@ -3,9 +3,18 @@ id: profile
 title: Mentee Profile
 ---
 
-# Sandra Edathadan | Computer Science Portfolio 💻
+# Sandra Edathadan | Computer Science Freshman
+<!-- CHANGE: Updated title from "Computer Science Portfolio 💻" to "Computer Science Freshman" -->
 
-![Profile Photo](/img/github-profile.png)
+<!-- CHANGE: Updated profile image from github-profile.png to sandra-profile.png -->
+<div align="center">
+  <img 
+    src="img/sandra-profile.png" 
+    alt="Sandra Edathadan" 
+    width="200" 
+    height="200"
+  />
+</div>
 
 ## About Me 👋
 
@@ -24,6 +33,8 @@ I'm a Computer Science student at Birla Institute of Technology and Science, Dub
 
 **Bachelor of Engineering in Computer Science**  
 *Birla Institute of Technology and Science Dubai, Expected Graduation: September 2028*
+<!-- CHANGE: Fixed spacing issue that was causing layout problems -->
+
 ---
 
 ## 🚀 Projects
@@ -31,11 +42,26 @@ I'm a Computer Science student at Birla Institute of Technology and Science, Dub
 ### AFastAPI CRUD Application
 *Technologies used: FastAPI, SQLite*
 
-![Project Image](/img/fastapi-crud.png)
+<!-- fixed the path of the file and added HTML for better layout -->
+<div align="center">
+  <img 
+    src="img/fastapi-crud.png" 
+    alt="FastAPI CRUD Application" 
+    width="90%" 
+  />
+</div>
 
-A web application that allows users to create and manipulate tasks.
+<div align="center">
+  A web application that allows users to create, read, update, and delete items through a clean interface.
+  <!-- CHANGE: Updated description to better reflect CRUD functionality -->
+</div>
 
-[View Project](https://github.com/EigenvectorsAndChill/fastapi_crud) | [Live Demo](https://project1demo.com)
+<!-- CHANGE: Improved links section with proper JSX styling -->
+<!-- CHANGE: Updated Live Demo link to point to the correct repository section -->
+<div align="center" style={{marginTop: "15px"}}>
+  <a href="https://github.com/EigenvectorsAndChill/fastapi_crud">View Project</a> | 
+  <a href="https://github.com/EigenvectorsAndChill/fastapi_crud?tab=readme-ov-file#fastapi-crud-application">Live Demo</a>
+</div>
 
 ---
 
@@ -47,9 +73,10 @@ A web application that allows users to create and manipulate tasks.
 |---------------|------------------------|
 | Python        | Git & GitHub           |
 | JavaScript    | VS Code                |
-| Java          |                        |
-| C++           |                        |
-| SQL           |                        |
+| Java          | FastAPI                |
+| C++           | SQLite                 |
+| SQL           | React                  |
+<!-- CHANGE: Added FastAPI, SQLite, and React to better reflect project experience -->
 
 </div>
 
@@ -68,6 +95,6 @@ Feel free to reach out to me at [sandraedathadan@gmail.com](mailto:sandraedathad
 <footer>
 <div align="center">
   <p>© 2025 Sandra Edathadan | Last Updated: March 2025</p>
-  <p>Theme inspired by <a href="https://github.com/topics/portfolio-template">GitHub Portfolio Templates</a></p>
+  <p>Theme inspired by <a href="https://github.com/prakash-aryan/GitHub-Portfolio-Templates.git">GitHub Portfolio Templates</a></p>
 </div>
 </footer>
