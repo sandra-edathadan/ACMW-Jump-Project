@@ -9,7 +9,7 @@ title: Mentee Profile
 <!-- CHANGE: Updated profile image from github-profile.png to sandra-profile.png -->
 <div align="center">
   <img 
-    src="img/sandra-profile.png" 
+    src="img/sandra-profileu.png" 
     alt="Sandra Edathadan" 
     width="200" 
     height="200"
@@ -17,7 +17,6 @@ title: Mentee Profile
 </div>
 
 ## About Me 👋
-
 I'm a Computer Science student at Birla Institute of Technology and Science, Dubai Campus, passionate about software development, machine learning, and solving complex problems through code. 
 
 <div align="center">
