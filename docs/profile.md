@@ -9,7 +9,7 @@ title: Mentee Profile
 <!-- CHANGE: Updated profile image from github-profile.png to sandra-profile.png -->
 <div align="center">
   <img 
-    src="img/sandra-profileu.png" 
+    src="img/sandra-profile.png" 
     alt="Sandra Edathadan" 
     width="200" 
     height="200"
@@ -17,7 +17,7 @@ title: Mentee Profile
 </div>
 
 ## About Me 👋
-I'm a Computer Science student at Birla Institute of Technology and Science, Dubai Campus, passionate about software development, machine learning, and solving complex problems through code. 
+I'm a Computer Science student at Birla Institute of Technology and Science, Dubai Campus, with a deep fascination for computers and technology. I aim to expand my expertise in software development and machine learning by building impactful projects that drive innovation.
 
 <div align="center">
   
