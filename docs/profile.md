@@ -33,6 +33,12 @@ I'm a Computer Science student at Birla Institute of Technology and Science, Dub
 **Bachelor of Engineering in Computer Science**  
 *Birla Institute of Technology and Science Dubai, Expected Graduation: September 2028*
 
+**Highschool Diploma**  
+*Our Own English High School Sharjah, Graduated in: January 2024*
+
+- 12th grade BOARDS result: 93.2%
+- 10th grade BOARDS result: 95.6%
+
 <!-- CHANGE: Fixed spacing issue that was causing layout problems -->
 
 ---
