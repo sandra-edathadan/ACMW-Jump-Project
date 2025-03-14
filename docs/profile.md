@@ -13,8 +13,8 @@ title: Mentee Profile
     </div>
 
     <div style={{ display: 'flex', gap: '1rem', marginTop: '1.5rem' }}>
-      <a href="https://github.com/sandra-edathadan" style={{ display: 'inline-flex', alignItems: 'center', padding: '0.5rem 1.5rem', backgroundColor: '#b31b67', color: 'white', borderRadius: '4px', textDecoration: 'none', fontWeight: 'bold' }}>GitHub</a>
-      <a href="mailto:sandraedathadan@gmail.com" style={{ display: 'inline-flex', alignItems: 'center', padding: '0.5rem 1.5rem', backgroundColor: '#b31b67', color: 'white', borderRadius: '4px', textDecoration: 'none', fontWeight: 'bold' }}>Email</a>
+      <a href="https://github.com/sandra-edathadan" style={{ display: 'inline-flex', alignItems: 'center', padding: '0.5rem 1.5rem', backgroundColor: '#9bd39b', color: 'white', borderRadius: '4px', textDecoration: 'none', fontWeight: 'bold' }}>GitHub</a>
+      <a href="mailto:sandraedathadan@gmail.com" style={{ display: 'inline-flex', alignItems: 'center', padding: '0.5rem 1.5rem', backgroundColor: '#9bd39b', color: 'white', borderRadius: '4px', textDecoration: 'none', fontWeight: 'bold' }}>Email</a>
     </div>
   </div>
   
