@@ -156,7 +156,7 @@ h3 {
 
 /* Code blocks */
 code {
-  background-color: #e2f4e2;
+  background-color: #9dba9d;
   border-radius: 4px;
   color: var(--ifm-color-primary-darker);
   padding: 0.2rem 0.4rem;
@@ -175,7 +175,7 @@ code {
 }
 
 .markdown > h2 {
-  border-bottom: 1px solid #e2f4e2;
+  border-bottom: 1px solid #dcf2dc;
   padding-bottom: 0.3rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
