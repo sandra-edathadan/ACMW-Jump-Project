@@ -1,11 +1,11 @@
 :root {
-  --ifm-color-primary: #b31b67; /* ACMW pink/maroon color */
-  --ifm-color-primary-dark: #a11960;
-  --ifm-color-primary-darker: #98185a;
-  --ifm-color-primary-darkest: #7d144a;
-  --ifm-color-primary-light: #c41d6e;
-  --ifm-color-primary-lighter: #cd1e73;
-  --ifm-color-primary-lightest: #e52283;
+  --ifm-color-primary: #c4e9c4; /* ACMW pink/maroon color */
+  --ifm-color-primary-dark: #9dba9d;
+  --ifm-color-primary-darker: #768c76;
+  --ifm-color-primary-darkest: #4e5d4e;
+  --ifm-color-primary-light: #d0edd0;
+  --ifm-color-primary-lighter: #dcf2dc;
+  --ifm-color-primary-lightest: #e2f4e2;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-font-family-base: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
@@ -15,21 +15,21 @@
   --custom-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
   --text-color: #333;
   --card-background: white;
-  --feature-background: #fdf2f7; /* Light pink background */
+  --feature-background: #f3fbf3; /* Light green background */
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #ff4d94; /* Brighter pink for dark mode */
-  --ifm-color-primary-dark: #ff2a85;
-  --ifm-color-primary-darker: #ff1a7c;
-  --ifm-color-primary-darkest: #e6005e;
-  --ifm-color-primary-light: #ff70a3;
-  --ifm-color-primary-lighter: #ff80ac;
-  --ifm-color-primary-lightest: #ffc2d8;
+  --ifm-color-primary: #c4ecc4; /* Brighter green for dark mode */
+  --ifm-color-primary-dark: #9dbd9d;
+  --ifm-color-primary-darker: #89a589;
+  --ifm-color-primary-darkest: #627662;
+  --ifm-color-primary-light: #d0f0d0;
+  --ifm-color-primary-lighter: #d6f2d6;
+  --ifm-color-primary-lightest: #dcf4dc;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --text-color: #e6e6e6;
-  --card-background: #2d333b;
-  --feature-background: #331426; /* Dark pink background */
+  --card-background: #141714;
+  --feature-background: #333d33; /* Dark green background */
 }
 
 /* General typography improvements */
@@ -69,13 +69,13 @@ h3 {
 
 /* Hero section with gradient background */
 .hero--primary {
-  background: linear-gradient(135deg, #851649 0%, #b31b67 100%);
+  background: linear-gradient(135deg, #4e5d4e 0%, #768c76 100%);
   color: white;
   padding: 4rem 0;
 }
 
 [data-theme='dark'] .hero--primary {
-  background: linear-gradient(135deg, #5c102f 0%, #9a1659 100%);
+  background: linear-gradient(135deg, #627662 0%, #89a589 100%);
 }
 
 .hero__title {
@@ -134,9 +134,9 @@ h3 {
 
 /* Footer */
 .footer--dark {
-  --ifm-footer-background-color: #59102e;
+  --ifm-footer-background-color: #4e5d4e;
   --ifm-footer-color: #ffffff;
-  --ifm-footer-link-color: #ffd1e6;
+  --ifm-footer-link-color: #dcf2dc;
   --ifm-footer-title-color: #ffffff;
   padding: 3rem 0;
 }
@@ -156,7 +156,7 @@ h3 {
 
 /* Code blocks */
 code {
-  background-color: #fef1f7;
+  background-color: #e2f4e2;
   border-radius: 4px;
   color: var(--ifm-color-primary-darker);
   padding: 0.2rem 0.4rem;
@@ -164,8 +164,8 @@ code {
 }
 
 [data-theme='dark'] code {
-  background-color: #3d1929;
-  color: #ff80ac;
+  background-color: #272f27;
+  color: #d0f0d0;
 }
 
 /* Documentation content area */
@@ -175,14 +175,14 @@ code {
 }
 
 .markdown > h2 {
-  border-bottom: 1px solid #f8d7e5;
+  border-bottom: 1px solid #e2f4e2;
   padding-bottom: 0.3rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
 [data-theme='dark'] .markdown > h2 {
-  border-bottom-color: #59102e;
+  border-bottom-color: #627662;
 }
 
 /* Profile page styling */
