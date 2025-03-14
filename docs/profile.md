@@ -19,11 +19,12 @@ title: Mentee Profile
   </div>
   
   <div style={{ flex: '1', minWidth: '300px', display: 'flex', justifyContent: 'center' }}>
-    <iframe 
-      src="https://lottie.host/embed/04ceb5d2-9e84-4986-baf8-4631ea2a6e5b/ra1bqOxbae.lottie" 
-      style={{ width: '300px', height: '300px', border: 'none' }}
-      allowFullScreen
-    ></iframe>
+     <img 
+      src="img/sandra-profileu.png" 
+      alt="Sandra Edathadan" 
+      width="468" 
+      height="387"
+    />
   </div>
 </div>
 
