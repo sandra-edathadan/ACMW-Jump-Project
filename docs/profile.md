@@ -221,28 +221,62 @@ title: Mentee Profile
   </div>
 </div>
 
-<div align="center">
+<div style={{ 
+  display: 'flex', 
+  flexDirection: 'row', 
+  flexWrap: 'wrap', 
+  alignItems: 'center', 
+  gap: '2rem', 
+  marginBottom: '2rem' 
+}}>
+  
+  {/* Table (Left Side) */}
+  <div style={{ flex: '1', minWidth: '300px' }}>
+    <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left' }}>
+      <thead>
+        <tr>
+          <th style={{ padding: '8px', borderBottom: '2px solid black' }}>Languages</th>
+          <th style={{ padding: '8px', borderBottom: '2px solid black' }}>Tools & Platforms</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>Python</td>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>Git & GitHub</td>
+        </tr>
+        <tr>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>JavaScript</td>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>VS Code</td>
+        </tr>
+        <tr>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>Java</td>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>FastAPI</td>
+        </tr>
+        <tr>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>C++</td>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>SQLite</td>
+        </tr>
+        <tr>
+          <td style={{ padding: '8px' }}>SQL</td>
+          <td style={{ padding: '8px' }}>React</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-| **Languages** | **Tools & Platforms** |
-|---------------|------------------------|
-| Python        | Git & GitHub           |
-| JavaScript    | VS Code                |
-| Java          | FastAPI                |
-| C++           | SQLite                 |
-| SQL           | React                  |
-<!-- CHANGE: Added FastAPI, SQLite, and React to better reflect project experience -->
+  {/* GIF (Right Side) */}
+  <div style={{ flex: '1', minWidth: '300px', display: 'flex', justifyContent: 'center' }}>
+    <iframe 
+      src="https://lottie.host/9e0e2e00-0517-4c36-a6cd-bf64809aa336/Wmw3baHu5J.lottie" 
+      style={{ width: '300px', height: '300px', border: 'none' }}
+      allowFullScreen
+    ></iframe>
+  </div>
 
-<div style={{ flex: '1', minWidth: '300px', display: 'flex', justifyContent: 'center' }}>
-  <iframe 
-    src="https://lottie.host/9e0e2e00-0517-4c36-a6cd-bf64809aa336/Wmw3baHu5J.lottie" 
-    style={{ width: '300px', height: '300px', border: 'none' }}
-    allowFullScreen
-  ></iframe>
 </div>
 
 ---
 
-</div>
 
 <div style={{ margin: '2rem 0' }}>
   <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem' }}>
