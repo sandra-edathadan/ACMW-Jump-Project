@@ -65,6 +65,7 @@ title: Mentee Profile
     </svg>
     <h2 style={{ margin: 0 }}>Education</h2>
   </div>
+</div>
 
 **Bachelor of Engineering in Computer Science**  
 *Birla Institute of Technology and Science Dubai, Expected Graduation: September 2028*
