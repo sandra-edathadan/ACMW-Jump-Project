@@ -281,8 +281,8 @@ title: Mentee Profile
   <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem' }}>
     <svg xmlns="http://www.w3.org/2000/svg" 
      viewBox="0 0 190.628 190.628"
-     width="50" 
-     height="50" 
+     width="40" 
+     height="40" 
      style={{ marginRight: '10px' }}
      preserveAspectRatio="xMidYMid meet">
   <path fill="black" d="M170.73,7.494c-14.562-9.868-31.403-7.747-48.094-6.039C93.635,4.423,64.48,5.611,35.408,7.746
