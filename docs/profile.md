@@ -268,7 +268,7 @@ title: Mentee Profile
   <div style={{ flex: '1', minWidth: '300px', display: 'flex', justifyContent: 'center' }}>
     <iframe 
       src="https://lottie.host/embed/9e0e2e00-0517-4c36-a6cd-bf64809aa336/Wmw3baHu5J.lottie" 
-      style={{ width: '300px', height: '300px', border: 'none' }}
+      style={{ width: '400px', height: '400px', border: 'none' }}
       allowFullScreen
     ></iframe>
   </div>
