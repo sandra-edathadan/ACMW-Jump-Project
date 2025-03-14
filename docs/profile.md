@@ -3,27 +3,28 @@ id: profile
 title: Mentee Profile
 ---
 
-# Sandra Edathadan | Computer Science Freshman
-<!-- CHANGE: Updated title from "Computer Science Portfolio 💻" to "Computer Science Freshman" -->
+<div style={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap', alignItems: 'flex-start', gap: '2rem', marginBottom: '2rem' }}>
+  <div style={{ flex: '1', minWidth: '300px' }}>
+    <h1 style={{ marginBottom: '0.5rem', fontSize: '2.5rem' }}>Sandra Edathadan</h1>
+    <h2 style={{ marginTop: '0', marginBottom: '1.5rem', fontSize: '1.8rem', fontWeight: 'normal', color: '#444' }}>Computer Science Freshman</h2>
 
-<!-- CHANGE: Updated profile image from github-profile.png to sandra-profile.png -->
-<div align="center">
-  <img 
-    src="img/sandra-profileu.png" 
-    alt="Sandra Edathadan" 
-    width="468" 
-    height="387"
-  />
-</div>
+    <div>
+      <p>I'm a Computer Science student at Birla Institute of Technology and Science, Dubai Campus, with a deep fascination for computers and technology. I aim to expand my expertise in software development and machine learning by building impactful projects that drive innovation.</p>
+    </div>
 
-## About Me 👋
-I'm a Computer Science student at Birla Institute of Technology and Science, Dubai Campus, with a deep fascination for computers and technology. I aim to expand my expertise in software development and machine learning by building impactful projects that drive innovation.
-
-<div align="center">
+    <div style={{ display: 'flex', gap: '1rem', marginTop: '1.5rem' }}>
+      <a href="https://github.com/sandra-edathadan" style={{ display: 'inline-flex', alignItems: 'center', padding: '0.5rem 1.5rem', backgroundColor: '#b31b67', color: 'white', borderRadius: '4px', textDecoration: 'none', fontWeight: 'bold' }}>GitHub</a>
+      <a href="mailto:sandraedathadan@gmail.com" style={{ display: 'inline-flex', alignItems: 'center', padding: '0.5rem 1.5rem', backgroundColor: '#b31b67', color: 'white', borderRadius: '4px', textDecoration: 'none', fontWeight: 'bold' }}>Email</a>
+    </div>
+  </div>
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandra-edathadan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandraedathadan@gmail.com)
-
+  <div style={{ flex: '1', minWidth: '300px', display: 'flex', justifyContent: 'center' }}>
+    <iframe 
+      src="https://lottie.host/embed/04ceb5d2-9e84-4986-baf8-4631ea2a6e5b/ra1bqOxbae.lottie" 
+      style={{ width: '300px', height: '300px', border: 'none' }}
+      allowFullScreen
+    ></iframe>
+  </div>
 </div>
 
 ---
