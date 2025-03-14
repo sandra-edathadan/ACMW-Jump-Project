@@ -22,8 +22,8 @@ title: Mentee Profile
      <img 
       src="img/sandra-profileu.png" 
       alt="Sandra Edathadan" 
-      width="468" 
-      height="387"
+      style={{ width: '468px', height: '387px', border: 'none' }}
+      allowFullScreen
     />
   </div>
 </div>
