@@ -6,7 +6,7 @@ title: Mentee Profile
 <div style={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap', alignItems: 'flex-start', gap: '2rem', marginBottom: '2rem' }}>
   <div style={{ flex: '1', minWidth: '300px' }}>
     <h1 style={{ marginBottom: '0.5rem', fontSize: '2.5rem' }}>Sandra Edathadan</h1>
-    <h2 style={{ marginTop: '0', marginBottom: '1.5rem', fontSize: '1.8rem', fontWeight: 'normal', color: '#444' }}>Computer Science Freshman</h2>
+    <h2 style={{ marginTop: '0', marginBottom: '1.5rem', fontSize: '1.8rem', fontWeight: 'normal', color: '#62737d' }}>Computer Science Freshman</h2>
 
     <div>
       <p>I'm a Computer Science student at Birla Institute of Technology and Science, Dubai Campus, with a deep fascination for computers and technology. I aim to expand my expertise in software development and machine learning by building impactful projects that drive innovation.</p>
