@@ -98,10 +98,6 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Profile',
-                to: '/docs/profile',
-              },
-              {
                 label: 'Documentation',
                 to: '/docs/documentation',
               },
