@@ -65,6 +65,11 @@ Check out these examples to see how to structure and format your blog posts:
 
 <!-- TODO: MENTEE - Add links to your blog posts here -->
 - [Git Branching Strategies](./git-branching) - Understanding different Git branching models for effective collaboration
+- [GitHub Repositories and Collaboration](./github) - Understanding how to manage GitHub repositories, fork projects and work efficiently with teams
+- [Markdown Guide](./markdown) -  A beginner's guide to writing and formatting documents using Markdown
+- [FastAPI Basics](./fastapi) - The basics to building high-performance APIs and websites with FastAPI
+- [An Introduction to Neural Networks](./neural-networks) - The history of neural networks and large language models
+- [Docusaurus & Static Websites](./docusaurus) - A guide to building static websites with Docusaurus and Markdown
 
 ## Learning Updates
 
