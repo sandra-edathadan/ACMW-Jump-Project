@@ -79,7 +79,6 @@ Document your learning journey here. For example:
 ### Week 1: Getting Started with React
 This week I learned the fundamentals of React component architecture and state management...
 ```
-
 <!-- TODO: MENTEE - Document your learning progress here -->
 
 ## Technical Reflections
