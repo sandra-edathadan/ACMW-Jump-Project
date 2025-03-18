@@ -17,49 +17,37 @@ const sidebars = {
   tutorialSidebar: [
     // Root level pages
     'intro',                  // Main landing page for docs
-   
     
     // Documentation section
-    // TODO: MENTEE - Expand this section with your technical documentation
-    // You can either add more files as direct entries or create nested categories
-    'documentation/index',    // Documentation landing page
-    
-    // Example of how to add a specific document
-    // 'documentation/etl-process', 
-    
-    // Example of how to create a category with nested pages
-    // {
-    //   type: 'category',
-    //   label: 'Project Guides',
-    //   items: [
-    //     'documentation/project-a',
-    //     'documentation/project-b',
-    //   ],
-    // },
+    {
+      type: 'category',
+      label: 'Documentation',
+      link: {
+        type: 'doc',
+        id: 'documentation/index',
+      },
+      items: [
+        'documentation/etl-process',
+        // Add other documentation files here
+      ],
+    },
     
     // Blog posts section
-    // TODO: MENTEE - Add your blog posts here as they're created
-    'blog-posts/index',       // Blog posts landing page
+    {
+      type: 'category',
+      label: 'Blog Posts',
+      link: {
+        type: 'doc',
+        id: 'blog-posts/index',
+      },
+      items: [
+        'blog-posts/git-branching',
+        // Add other blog posts here
+      ],
+    },
     
-    // Example of how to add a specific blog post
-    // 'blog-posts/git-branching',
-    
-    // TODO: MENTEE - Add more categories or documents as needed
-    // For example:
-    // {
-    //   type: 'category',
-    //   label: 'Tutorials',
-    //   items: ['tutorials/getting-started', 'tutorials/advanced'],
-    // },
+    // TODO: Mentees can add more categories or documents as needed
   ],
-  
-  // TODO: MENTEE - You can create additional sidebars for different sections
-  // Example:
-  // projectSidebar: [
-  //   'projects/overview',
-  //   'projects/project-one',
-  //   'projects/project-two',
-  // ],
 };
 
 module.exports = sidebars;
