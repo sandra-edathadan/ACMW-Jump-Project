@@ -21,7 +21,7 @@ To fork a repository means to create a personal copy of someone else’s GitHub 
 
 Forking is useful for collaboration, customizing projects, and contributing to open-source software. 
 
-![GitHub Forking](img/forking.png)
+![GitHub Forking](/img/forking.png)
 
 ## How do I fork a repository?
 
