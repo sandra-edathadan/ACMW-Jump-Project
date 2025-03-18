@@ -14,8 +14,16 @@ This documentation site is part of the ACM-W Junior Mentorship Program (JuMP), a
 
 ## My Role
 
-<!-- TODO: MENTEE - Describe your role in the project and your responsibilities -->
-As a mentor in the ACMW-Jump program, I'm responsible for guiding my team through security and monitoring challenges, helping them develop technical skills, and supporting their professional growth.
+### **LLM Engineer**
+
+- **Focus**: Generating realistic security data using Large Language Models (LLMs).  
+- **Responsibilities**:  
+  - Create diverse security scenarios for testing and training.  
+  - Examples:  
+    - Generate fake but realistic attack patterns.  
+    - Simulate normal vs. suspicious behavior.  
+- **Tech Stack**: LLM APIs, Python, data generation.
+
 
 ## Project Timeline
 
