@@ -42,6 +42,11 @@ const sidebars = {
       },
       items: [
         'blog-posts/git-branching',
+        'blog-posts/github',
+        'blog-posts/markdown',
+        'blog-posts/fastapi',
+        'blog-posts/neural-networks',
+        'blog-posts/docusaurus',
         // Add other blog posts here
       ],
     },
