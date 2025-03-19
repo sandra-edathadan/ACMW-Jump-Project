@@ -41,7 +41,6 @@ const sidebars = {
         id: 'blog-posts/index',
       },
       items: [
-        'blog-posts/git-branching',
         'blog-posts/github',
         'blog-posts/markdown',
         'blog-posts/fastapi',
