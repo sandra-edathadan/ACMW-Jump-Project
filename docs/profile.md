@@ -245,20 +245,15 @@ title: Mentee Profile
           <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>Git & GitHub</td>
         </tr>
         <tr>
-          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>JavaScript</td>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>C</td>
           <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>VS Code</td>
         </tr>
         <tr>
-          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>Java</td>
           <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>FastAPI</td>
         </tr>
         <tr>
-          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>C++</td>
+          <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>MySQL</td>
           <td style={{ padding: '8px', borderBottom: '1px solid gray' }}>SQLite</td>
-        </tr>
-        <tr>
-          <td style={{ padding: '8px' }}>SQL</td>
-          <td style={{ padding: '8px' }}>React</td>
         </tr>
       </tbody>
     </table>
