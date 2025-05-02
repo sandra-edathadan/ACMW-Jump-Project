@@ -98,10 +98,6 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Documentation',
-                to: '/docs/documentation',
-              },
-              {
                 label: 'Blog',
                 to: '/docs/blog-posts',
               },
