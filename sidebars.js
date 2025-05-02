@@ -19,18 +19,18 @@ const sidebars = {
     'intro',                  // Main landing page for docs
     
     // Documentation section
-    {
-      type: 'category',
-      label: 'Documentation',
-      link: {
-        type: 'doc',
-        id: 'documentation/index',
-      },
-      items: [
-        'documentation/etl-process',
+    //{
+    //  type: 'category',
+    //  label: 'Documentation',
+    //  link: {
+    //  type: 'doc',
+    //    id: 'documentation/index',
+    //  },
+    //  items: [
+    //    'documentation/etl-process',
         // Add other documentation files here
-      ],
-    },
+    //  ],
+    //},
     
     // Blog posts section
     {
