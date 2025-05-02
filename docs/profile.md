@@ -302,7 +302,7 @@ title: Mentee Profile
   </div>
 </div>
 
-- **Hackathon Winner** - MTCxACM-W:Hack-a-Bot, March 2025
+- **Hackathon 2nd Place Winner** - MTCxACM-W:Hack-a-Bot, March 2025
 - **Most Innovative Award** - DIDI Project Design Space x DP World Boot Camp, June 2023
 
 ---
