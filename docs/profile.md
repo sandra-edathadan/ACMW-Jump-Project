@@ -365,6 +365,5 @@ Feel free to reach out to me at [sandraedathadan@gmail.com](mailto:sandraedathad
 <footer>
 <div align="center">
   <p>© 2025 Sandra Edathadan | Last Updated: March 2025</p>
-  <p>Theme inspired by <a href="https://github.com/prakash-aryan/GitHub-Portfolio-Templates.git">GitHub Portfolio Templates</a></p>
 </div>
 </footer>

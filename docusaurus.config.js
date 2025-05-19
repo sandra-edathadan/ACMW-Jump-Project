@@ -17,7 +17,7 @@ const config = {
   // TODO: MENTEE - Update with your GitHub username
   url: 'https://sandra-edathadan.github.io',
   // TODO: MENTEE - Update with your repository name
-  baseUrl: '/ACMW-Jump-Project/',
+  baseUrl: '/portfolio/',
 
   // GitHub pages deployment config
   // TODO: MENTEE - Update with your GitHub username
